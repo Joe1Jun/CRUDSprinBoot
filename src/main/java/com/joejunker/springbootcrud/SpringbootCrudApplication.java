@@ -1,4 +1,4 @@
-package com.joejunker.springboot_crud;
+package com.joejunker.springbootcrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
